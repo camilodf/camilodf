@@ -8,10 +8,10 @@ My background isn't just a career change; it's my foundation. I leverage a decad
   <a href="https://camilofranzini.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-camilofranzini.dev-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio">
   </a>
-  <a href="[SEU_LINK_DO_LINKEDIN_AQUI]" target="_blank">
+  <a href="https://www.linkedin.com/in/camilo-franzini/?locale=en_US" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Camilo_Franzini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:[SEU_EMAIL_AQUI]" target="_blank">
+  <a href="mailto:"cfranzini10@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
@@ -37,15 +37,16 @@ My background isn't just a career change; it's my foundation. I leverage a decad
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Currency Converter</h3>
-      <a href="[LINK_DO_SEU_PROJETO_NA_VERCEL]" target="_blank">
-        <img src="[LINK_DA_IMAGEM_MOCKUP_DO_CONVERSOR]" alt="Project 2 Preview">
+      <a href="https://currency-converter-one-nu-78.vercel.app" target="_blank">
+        <img src="<img width="1536" height="1024" alt="ChatGPT Image 10 de nov  de 2025, 11_26_05" src="https://github.com/user-attachments/assets/f3605c0a-f8ae-4322-b015-be2352cd80d3" />
+" alt="Project 2 Preview">
       </a>
       <p align="center">
         Conversor de moedas em tempo real consumindo a AwesomeAPI com `fetch()` em JavaScript. Projeto focado na manipulação do DOM e lógica assíncrona.
         <br><br>
-        <a href="[LINK_DO_SEU_PROJETO_NA_VERCEL]" target="_blank"><strong>Live Demo »</strong></a>
+        <a href="https://currency-converter-one-nu-78.vercel.app/" target="_blank"><strong>Live Demo »</strong></a>
         &nbsp;&nbsp;&nbsp;
-        <a href="[LINK_DO_REPOSITORIO_NO_GITHUB]" target="_blank"><strong>Source Code »</strong></a>
+        <a href="https://github.com/camilodf/currency-converter" target="_blank"><strong>Source Code »</strong></a>
       </p>
     </td>
   </tr>
