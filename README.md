@@ -24,9 +24,6 @@ My background isn't just a career change; it's my foundation. I leverage a decad
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Personal Portfolio</h3>
-      <a href="https://camilofranzini.dev" target="_blank">
-        <img src="[LINK_DAQUELA_IMAGEM_PROFISSIONAL_QUE_FAREI_PRA_VOCE]" alt="Project 1 Preview">
-      </a>
       <p align="center">
         Meu portfólio pessoal responsivo (Mobile-First), construído com HTML semântico, CSS Grid/Flexbox e JavaScript. Hospedado na Vercel com CI/CD.
         <br><br>
@@ -37,10 +34,6 @@ My background isn't just a career change; it's my foundation. I leverage a decad
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Currency Converter</h3>
-      <a href="https://currency-converter-one-nu-78.vercel.app" target="_blank">
-        <img src="<img width="1536" height="1024" alt="ChatGPT Image 10 de nov  de 2025, 11_26_05" src="https://github.com/user-attachments/assets/f3605c0a-f8ae-4322-b015-be2352cd80d3" />
-" alt="Project 2 Preview">
-      </a>
       <p align="center">
         Conversor de moedas em tempo real consumindo a AwesomeAPI com `fetch()` em JavaScript. Projeto focado na manipulação do DOM e lógica assíncrona.
         <br><br>
